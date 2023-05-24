@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+}
+.navbar{
+    width: 100%;
+    height: 10vh;
+    padding: 20px;
+    background: #C6AA7F;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navbar h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+}
